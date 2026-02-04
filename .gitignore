@@ -8,3 +8,4 @@ pycache/
 *.pyc
 users.json.backup
 active_games.json.backup
+__pycache__
