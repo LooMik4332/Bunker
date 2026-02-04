@@ -36,7 +36,7 @@ Setup Steps
 Clone the repository:
 ```
 git clone https://github.com/theloomik/bunker.git
-cd bunker-bot
+cd bunker
 ```
 
 Install dependencies:
