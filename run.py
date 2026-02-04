@@ -6,7 +6,7 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 try:
-    from bunker_bot.main import run
+    from bunker_bot.ui import run
 except ImportError as e:
     print("❌ Critical Error: Could not import bot modules.")
     print(f"Details: {e}")
