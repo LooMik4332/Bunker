@@ -125,5 +125,3 @@ The project follows a Clean Architecture approach:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
->>>>>>> 8632f0035372dfa609e109256da944653f5a0a9b
